@@ -29,7 +29,10 @@ const Menu = [
     },
     {
       id: 4,
-      image: "images/chola.jpg",
+      image: <img
+          src ="https://www.vegrecipesofindia.com/wp-content/uploads/2013/06/chole-bhature-recipe31-500x500.jpg"
+        alt="new"
+    />
       name: "chola",
       category: "lunch",
       price: "50₹",
